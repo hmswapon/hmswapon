@@ -30,9 +30,7 @@ I am always exploring new technologies, improving my skills, and contributing to
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hmswapon)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmswapon)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hmswapon&show_icons=true)  
 
