@@ -25,18 +25,3 @@ I am always exploring new technologies, improving my skills, and contributing to
 
 
 
-
-
-
-
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hmswapon&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/hmswapon/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/hmswapon)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=hmswapon)  
-
