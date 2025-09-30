@@ -12,7 +12,7 @@ I have hands-on experience with:
 I am always exploring new technologies, improving my skills, and contributing to projects that make systems safer and smarter.
 
 
-<h3> ☕ Connect with me!</h3>
+<h1> ☕ Connect with me! </h1>
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hmswapon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmswapon/)
