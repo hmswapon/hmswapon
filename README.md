@@ -17,9 +17,14 @@ I am always exploring new technologies, improving my skills, and contributing to
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hmswapon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hmswapon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://facebook.com/hmswapon.cse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/hmswapon.cse/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/hmswapon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@Hmswapon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://scripthunter.xyz)  
 
 
-[<img src="github.svg" height="40" style="fill:#000;">](#)&nbsp;
-[<img src="linkedin.svg" height="40" style="fill:#0A66C2;">](#)&nbsp;
-[<img src="twitter.svg" height="40" style="fill:#1DA1F2;">](#)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" style="fill:#181717;">](https://github.com/hmswapon)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" style="fill:#0A66C2;">](https://www.linkedin.com/in/hmswapon/)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40" style="fill:#1877F2;">](https://www.facebook.com/hmswapon.cse)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="40" style="fill:#E4405F;">](https://www.instagram.com/hmswapon.cse/)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40" style="fill:#1DA1F2;">](https://twitter.com/hmswapon)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="40" style="fill:#FF0000;">](https://www.youtube.com/@Hmswapon)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="Website" height="40" style="fill:#2c7873;">](https://scripthunter.xyz)
+
 
 
 
