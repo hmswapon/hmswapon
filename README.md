@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Hm swapon
+### Hi, I'm Hm swapon
 ![💻 Computer Engineer | Ethical Hacker & Cybersecurity Enthusiast | Python, C/C++, C#, Java, PHP, Go | Web & Software](https://scripthunter.xyz/og4.png)
 💻 Computer Engineer | Ethical Hacker & Cybersecurity Enthusiast | Python, C/C++, C#, Java, PHP, Go | Web & Software
 
