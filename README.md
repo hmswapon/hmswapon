@@ -15,13 +15,14 @@ I am always exploring new technologies, improving my skills, and contributing to
 
 <h2> ☕ Connect with me! </h2>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hmswapon)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmswapon/)
+[![Website](https://img.shields.io/badge/Website-%232c7873?style=for-the-badge&logo=google-chrome&logoColor=white)](https://scripthunter.xyz)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hmswapon)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hmswapon.cse)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hmswapon.cse)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hmswapon)
-[![Website](https://img.shields.io/badge/Website-%232c7873?style=for-the-badge&logo=google-chrome&logoColor=white)](https://scripthunter.xyz)
+
 
 
 
