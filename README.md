@@ -1,8 +1,8 @@
-<h1> Hi, I'm Hm swapon</h1>
-<h2 class="heading-element" dir="auto">Hi, I'm Ali Hossain 👋</h2>
+<h2> Hi, I'm Hm swapon</h2>
+
 ![💻 Computer Engineer | Ethical Hacker & Cybersecurity Enthusiast | Python, C/C++, C#, Java, PHP, Go | Web & Software](https://scripthunter.xyz/og4.png)
 
-<h3> 🚀 About Me </h3>
+<h2> 🚀 About Me </h2>
 I am a Computer Engineer with a strong passion for Cybersecurity, Ethical Hacking, and secure software development. I enjoy building smart and secure solutions 💻 that combine both innovation and best coding practices.
 
 I have hands-on experience with:
@@ -13,7 +13,7 @@ I have hands-on experience with:
 I am always exploring new technologies, improving my skills, and contributing to projects that make systems safer and smarter.
 
 
-<h1> ☕ Connect with me! </h1>
+<h2> ☕ Connect with me! </h2>
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hmswapon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmswapon/)
