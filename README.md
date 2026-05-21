@@ -1,6 +1,6 @@
 <h2> Hi, I'm Hm swapon</h2>
 
-![💻 Computer Engineer | Ethical Hacker & Cybersecurity Enthusiast | Python, C++, C#, Java, PHP | Web & Software](https://scripthunter.xyz/og4.png](https://github.com/hmswapon/hmswapon/blob/main/og.jpg)
+![💻 Computer Engineer | Ethical Hacker & Cybersecurity Enthusiast | Python, C++, C#, Java, PHP | Web & Software](https://raw.githubusercontent.com/hmswapon/REPO/main/og.jpg)
 
 <h2> 🚀 About Me </h2>
 I am a Computer Engineer with a strong passion for Cybersecurity, Ethical Hacking, and secure software development. I enjoy building smart and secure solutions 💻 that combine both innovation and best coding practices.
