@@ -5,7 +5,7 @@
 <h2> 🚀 About Me </h2>
 I am a Computer Engineer with a keen interest in Programming, Cybersecurity, and Secure Software Development. I enjoy building efficient, scalable, and secure systems using modern technologies and best coding practices.
 
-- I have hands-on experience with:
+I have hands-on experience with:
 - ✔ Programming Languages: Python, C++, C#, Java, PHP (Problem Solving, Backend Logic, OOP)
 - ✔ Web Development: HTML, CSS, SQL, Web Application Development
 - ✔ Cybersecurity: Ethical Hacking, Vulnerability Assessment, Secure Coding Practices
